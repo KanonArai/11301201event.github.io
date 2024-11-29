@@ -1,5 +1,6 @@
 .img-wrapper {
-    text-align : center
+    width: auto
+    height: auto
     background-image: url(ikedaquiz_image_h1.1.jpg);
-    
+    backgroundsize: cover
   }
